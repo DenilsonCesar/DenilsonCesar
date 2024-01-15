@@ -1,4 +1,4 @@
-### Olá! Me chamo Denilson 👋
+### <div id="meunome"></div>
 
 - 👨‍💻 Desenvolvedor full-stack
 - 📚 Se aprofundando mais no laravel e no flutter
@@ -39,3 +39,18 @@
   ![Snake animation](https://github.com/DenilsonCesar/DenilsonCesar/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+<script>
+  let i = 0;
+  let message = "Olá! Me chamo Denilson 👋";
+  
+  typing();
+  
+  function typing(){
+      if (i < message.length){
+          document.getElementById('meunome').innerHTML += message.charAt(i);
+          i++;
+          setTimeout(typing, 100);
+      }
+  }
+</script>
