@@ -1,4 +1,4 @@
-### Olá! Eu sou o Denilson 👋
+### Olá! Me chamo Denilson 👋
 
 - 👨‍💻 Desenvolvedor full-stack
 - 📚 Se aprofundando mais no laravel e no flutter
