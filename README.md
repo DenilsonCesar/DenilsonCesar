@@ -40,7 +40,8 @@
  
 </div>
 
-<script>
+```javascript
+alert('init');
   let i = 0;
   let message = "Olá! Me chamo Denilson 👋";
   
@@ -53,4 +54,4 @@
           setTimeout(typing, 100);
       }
   }
-</script>
+````
